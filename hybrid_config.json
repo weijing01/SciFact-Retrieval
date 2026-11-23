@@ -1,6 +1,0 @@
-{
-    "alpha": 0.3,
-    "selection_metric": "train_ndcg_at_10",
-    "training_queries": 809,
-    "model": "all-MiniLM-L6-v2"
-}
